@@ -6,4 +6,4 @@ gem "github-pages", group: :jekyll_plugins
 title: [Serie de emisión de luz]
 description: [Datos y scripts utilizados en entre la luz y la oscuridad]
 
- 
+ { "content": "Body of the post.\nSecond line."}
