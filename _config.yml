@@ -3,5 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
 
-title: [Bases de datos y scripts usados en entre la luz y la oscuridad]
-description: [Los datos tienen una frecuencia diaria. La información está disponible desde 2017 a 2021. La adecuación del raw data está en python. Gráficas y otros análisis en r. ]
+title: [Serie de emisión de luz]
+description: [Datos y scripts utilizados en entre la luz y la oscuridad]
+
+Los datos tienen una frecuencia diaria. La información está disponible desde 2017 a 2021. La adecuación del raw data está en python. Gráficas y otros análisis en r. 
