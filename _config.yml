@@ -6,4 +6,4 @@ gem "github-pages", group: :jekyll_plugins
 title: [Serie de emisión de luz]
 description: [Datos y scripts utilizados en entre la luz y la oscuridad]
 
-Los datos tienen una frecuencia diaria. La información está disponible desde 2017 a 2021. La adecuación del raw data está en python. Gráficas y otros análisis en r.
+description: Los datos tienen una frecuencia diaria. La información está disponible desde 2017 a 2021. La adecuación del raw data está en python. Gráficas y otros análisis en r.
